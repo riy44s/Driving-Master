@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d811aed1db30ab343bb0563c913af004
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 29243625997e84e499b856c7c02ba2db
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 3935faee5a7f55646bdabf79af2cb599
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 559ee7f9a7836a44c9b3bd0e4ef74711
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 560a5c85a5ac55649adf0785da4f17fc
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: baeaa959d86edfe448c94c824da7be49
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: be87504b70346d54dac271a4d612733e
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 494ccdf5ac0b75141b45c3228380d9c7
+  - enabled: 1
+    path: Assets/Scenes/CarSelection.unity
+    guid: bbc57e96d5f5b8049bc7a564c199c93e
   m_configObjects: {}
